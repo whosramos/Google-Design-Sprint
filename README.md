@@ -1,51 +1,52 @@
 # Google Design Sprint
-Google Design Sprint: um processo de design “express” onde um grupo de pessoas se reúne por 5 dias para responder questões críticas de negócios através de design, prototipagem e teste das ideias com os usuários.
+Google Design Sprint: an “express” design process where a group of people get together for 5 days to answer critical business questions through design, prototyping and testing of ideas with users.
 
 <img src="./photo1.jpg"  /> 
 
-O processo foi desenvolvido e anunciado pela Google Ventures, um braço do Google focado em testar e acelerar ideias que ainda estão em estágio inicial de desenvolvimento.
-A principal vantagem desse processo de 5 dias em relação a tantas outras metodologias que existem por aí é que ele pega um atalho bastante vantajoso: ao invés de esperar para lançar um MVP (Minimum Viable Product) para descobrir se a ideia é boa ou não, processo esse que pode tomar vários meses, o Design Sprint foca especificamente na validação da ideia com usuários e encurta o processo para 40 horas de trabalho.
+The process was developed and announced by Google Ventures, an arm of Google focused on testing and accelerating ideas that are still in the early stages of development.
+The main advantage of this 5-day process over so many other methodologies out there is that it takes a very advantageous shortcut: instead of waiting to launch an MVP (Minimum Viable Product) to find out if the idea is a good one or not, a process that can take several months, Design Sprint focuses specifically on validating the idea with users and shortens the process to 40 hours of work.
 
 <img src="./photo2.png"  /> 
 
-Muito melhor saber se a ideia vai funcionar ou não ANTES de ter que passar pelo trabalho todo de desenvolvê-la por completo, certo?
-## Resumão:
- - O que é? 5 dias para criar, desenhar, prototipar e testar uma ideia.
- - Para quem é recomendado? Startups em estágio inicial; ideias que ainda precisam ser amadurecidas; projetos internos.
- - Quando usar? Antes de investir tempo e dinheiro em uma startup ou ideia; antes de um time ágil recém-formado começar a trabalhar em um projeto; antes de começar a desenhar a fundo uma funcionalidade complexa.
- - Quem envolver no sprint? Pelo menos um Designer, um Stakeholder (CEO da startup, dono da grana, dono da ideia, dono da bola), um Product Manager, uma pessoa que conhece bem os usuários do produto, e alguém com um background mais técnico (Desenvolvedor). Ah, e é claro, um facilitador para comandar as sessões coletivas.
+Much better to know if the idea will work or not BEFORE having to go through all the work of developing it completely, right?
+## Summary:
+ - *What is it? * 5 days to create, design, prototype and test an idea.
+ - *Who is it recommended for? * Startups at an early stage; ideas that have yet to be matured; internal projects.
+ - *When to use? * Before investing time and money in a startup or idea; before a newly formed agile team starts working on a project; before you start to draw a complex feature in depth.
+ - *Who is involved in the sprint? * At least one Designer, a Stakeholder (CEO of the startup, owner of the money, owner of the idea, owner of the ball), a Product Manager, a person who knows the users of the product well, and someone with a more technical background (Developer). Oh, and of course, a facilitator to lead the group sessions.
  
-## Como funciona o Design Sprint?
-Antes de começar o Design Sprint, você precisa escolher o problema a ser resolvido. Quando estiverem todos alinhados, reúna o time em uma sala, bloqueie o calendário de todo mundo e garanta alguns materiais básicos para usar naquela semana (post-its, caneta, papel, etc.).
+## How does Design Sprint work?
+Before you start Design Sprint, you need to choose the problem to be solved. When they are all lined up, gather the team in a room, block everyone's calendar and secure some basic materials to use that week (post-its, pen, paper, etc.).
 
 
 <img src="./photo3.jpg"  /> 
 
-## Segunda-feira: UNPACK
-No primeiro dia da Sprint, seu time vai exteriorizar tudo o que eles sabem sobre a ideia. A expertise normalmente está espalhada em várias cabeças diferentes, e ter certeza que todo mundo está começando alinhado é fundamental para o sucesso do programa. Desenvolvedores sabem de coisas que os designers não sabem, os stakeholders sabem de coisas que os product managers não sabem — e assim por diante. Para facilitar esse processo de “unpack”, você pode propor atividades mais específicas para o grupo (expressar a voz do consumidor, desconstruir o produto atual, definir as métricas de sucesso, etc.).
+## Monday: UNPACK
+On the first day of Sprint, your team will externalize everything they know about the idea. The expertise is usually spread across several different heads, and making sure that everyone is starting out aligned is critical to the success of the program. Developers know things that designers don't know, stakeholders know things that product managers don't know - and so on. To facilitate this “unpack” process, you can propose more specific activities for the group (expressing the consumer's voice, deconstructing the current product, defining the metrics of success, etc.).
 
-## Terça-feira: SKETCH
-No segundo dia, todo mundo rabiscando as ideias. As pessoas vão trabalhar individualmente colocando as soluções para aquele problema/ideia no papel. A ideia é conseguir colocar o máximo possível no papel, sem muita discussão em grupo no começo. Depois que todo mundo rabiscou, é hora do grupo todo ir olhando para cada um dos sketches e discutindo como aquilo poderia funcionar. No fim, existe um sistema estruturado para criticar o trabalho e votar nas melhores soluções — tudo feito muito democraticamente.
+## Tuesday: SKETCH
+On the second day, everyone scribbling ideas. People will work individually putting the solutions to that problem / idea on paper. The idea is to be able to put as much as possible on paper, without much group discussion at the beginning. After everyone scribbled, it's time for the whole group to look at each of the sketches and discuss how it could work. In the end, there is a structured system for criticizing work and voting for the best solutions - all done very democratically.
 
-## Quarta-feira: DECIDE
-Na quarta-feira, vocês já terão pelo menos uma dúzia de ideias para escolherem. O que é ótimo, mas é também um problema — já que vocês não conseguem prototipar 12 ideias em um dia só. Então o objetivo do terceiro dia é simplesmente filtrar as ideias, refiná-las, e no fim do dia escolher uma única ideia que vocês irão prototipar.
+## Wednesday: DECIDE
+By Wednesday, you will already have at least a dozen ideas to choose from. Which is great, but it's also a problem - since you can't prototype 12 ideas in one day. So the goal of the third day is to simply filter the ideas, refine them, and at the end of the day choose a single idea that you are going to prototype.
 
 <img src="./photo4.jpg"  /> 
 
-## Quinta-feira: PROTOTYPE
-Quinta-feira é o dia de prototipar. É preciso ser ridiculamente produtivo, então é importante aqui escolher ferramentas de prototipagem com as quais vocês já estejam habituados a trabalhar rapidamente. Também é importante planejar todas as atividades do dia logo cedo, incluindo quem faz o quê e de que hora a que hora. A ideia é montar um protótipo daquela ideia até o fim do dia.
+## Thursday: PROTOTYPE
+Thursday is the day to prototype. You have to be ridiculously productive, so it's important here to choose prototyping tools that you're already used to working with quickly. It is also important to plan all the day's activities early, including who does what and from what time to what time. The idea is to build a prototype of that idea by the end of the day.
 
-## Sexta-feira: TEST
-Sexta-feira é dia de mostrar os protótipos para os potenciais usuários do produto, em sessões individuais. O produto é apresentado para o usuário, ele interage com algumas telas e vai dando feedback em tempo real sobre o que gosta e o que não gosta. No fim do dia vocês se reúnem para discutir o feedback que receberam dos usuários e decidir se a ideia sobrevive ou não.
+## Friday: TEST
+Friday is the day to show the prototypes to potential users of the product, in individual sessions. The product is presented to the user, he interacts with some screens and gives real-time feedback on what he likes and what he doesn't like. At the end of the day, you meet to discuss the feedback you have received from users and decide whether the idea survives or not.
 
-## Brainstorms são divertidos, mas não funcionam
-O Google Design Sprint é uma ótima ideia para agilizar o trabalho de times de design e conseguir validar ideias antes que muito tempo ou dinheiro sejam investidos nela. Mas o interessante é observar também o porquê da ideia do Design Sprint ter surgido em primeiro lugar.
-Conta Jake Knapp, criador e evangelista do Design Sprint, que ele costumava usar sessões de brainstorm em grupo lá no Google para gerar ideias e soluções para determinado problema. “Brainstorms são divertidos, as pessoas terminam o dia cansadas mas animadas, donas de uma pilha de post-its cheio de ideias para resolver o problema. Mas as ideias que surgiam dessas sessões de brainstorm nunca iam a lugar nenhum. Não é que estivéssemos tendo ideias ruins — a maioria das ideias era boa, na verdade. Mas o problema é que as melhores ideias vinham surgindo de outro lugar que não ali.”
+## Brainstorms are fun, but don't work
+Google Design Sprint is a great idea to streamline the work of design teams and to be able to validate ideas before a lot of time or money is invested in it. But the interesting thing is also to observe why the idea of Design Sprint came up in the first place.
+Account Jake Knapp, creator and evangelist for Design Sprint, that he used to use group brainstorming sessions there at Google to generate ideas and solutions to a certain problem. “Brainstorms are fun, people end the day tired but excited, with a stack of post-its full of ideas to solve the problem. But the ideas that came out of those brainstorming sessions never went anywhere. It wasn't that we were having bad ideas - most of the ideas were good, actually. But the problem is that the best ideas were coming from somewhere other than there. ”
 
 <img src="./photo5.jpg"  /> 
 
-Segundo Jake, as melhores ideias tendem a vir de indivíduos, não de grupos. Grupos têm uma dinâmica onde não necessariamente as melhores ideias sobrevivem, mas as ideias que são melhores vendidas ou contadas com mais empolgação. Outro problema dos brainstorm é que espera-se que as ideias sejam eleitas por consenso — mas consenso nem sempre escolhe as ideias mais corajosas ou as mais íntegras. Consenso costuma escolher o caminho mais fácil de aceitar.
-Um outro ponto positivo do Design Sprint é a limitação de tempo. Sim, pode parecer contraditório (menos tempo para fazer o trabalho geralmente significa mais sofrimento), mas ao mesmo tempo essa restrição deixa os membros do time mais motivados por terem sempre a sensação de estarem movendo rapidamente. Burocracia é uma palavra que tem que passar longe da sua empresa, caso você esteja pensando em organizar um desses Design Sprints com o seu time.
-Veja abaixo a explicação completa do Design Sprint, pelo seu próprio criador, Jake Knapp:
+According to Jake, the best ideas tend to come from individuals, not groups. Groups have a dynamic where not necessarily the best ideas survive, but the ideas that are best sold or told with the most excitement. Another problem with brainstorms is that ideas are expected to be elected by consensus - but consensus does not always choose the most courageous or the most upright ideas. Consensus usually chooses the easiest path to accept.
+
+Another positive aspect of Design Sprint is the time limitation. Yes, it may seem contradictory (less time to do the job usually means more suffering), but at the same time, this restriction makes team members more motivated because they always have the feeling that they are moving quickly. Bureaucracy is a word that has to pass away from your company, in case you are thinking of organizing one of these Design Sprints with your team.
+See below for the full explanation of Design Sprint, by its own creator, Jake Knapp:
 
 [![Video](video.png)](https://www.youtube.com/watch?v=aWQUSiOZ0x8&feature=emb_logo)
