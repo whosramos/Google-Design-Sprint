@@ -38,11 +38,11 @@ Quinta-feira é o dia de prototipar. É preciso ser ridiculamente produtivo, ent
 ## Sexta-feira: TEST
 Sexta-feira é dia de mostrar os protótipos para os potenciais usuários do produto, em sessões individuais. O produto é apresentado para o usuário, ele interage com algumas telas e vai dando feedback em tempo real sobre o que gosta e o que não gosta. No fim do dia vocês se reúnem para discutir o feedback que receberam dos usuários e decidir se a ideia sobrevive ou não.
 
-<img src="./photo5.jpg"  /> 
-
 ## Brainstorms são divertidos, mas não funcionam
 O Google Design Sprint é uma ótima ideia para agilizar o trabalho de times de design e conseguir validar ideias antes que muito tempo ou dinheiro sejam investidos nela. Mas o interessante é observar também o porquê da ideia do Design Sprint ter surgido em primeiro lugar.
 Conta Jake Knapp, criador e evangelista do Design Sprint, que ele costumava usar sessões de brainstorm em grupo lá no Google para gerar ideias e soluções para determinado problema. “Brainstorms são divertidos, as pessoas terminam o dia cansadas mas animadas, donas de uma pilha de post-its cheio de ideias para resolver o problema. Mas as ideias que surgiam dessas sessões de brainstorm nunca iam a lugar nenhum. Não é que estivéssemos tendo ideias ruins — a maioria das ideias era boa, na verdade. Mas o problema é que as melhores ideias vinham surgindo de outro lugar que não ali.”
+
+<img src="./photo5.jpg"  /> 
 
 Segundo Jake, as melhores ideias tendem a vir de indivíduos, não de grupos. Grupos têm uma dinâmica onde não necessariamente as melhores ideias sobrevivem, mas as ideias que são melhores vendidas ou contadas com mais empolgação. Outro problema dos brainstorm é que espera-se que as ideias sejam eleitas por consenso — mas consenso nem sempre escolhe as ideias mais corajosas ou as mais íntegras. Consenso costuma escolher o caminho mais fácil de aceitar.
 Um outro ponto positivo do Design Sprint é a limitação de tempo. Sim, pode parecer contraditório (menos tempo para fazer o trabalho geralmente significa mais sofrimento), mas ao mesmo tempo essa restrição deixa os membros do time mais motivados por terem sempre a sensação de estarem movendo rapidamente. Burocracia é uma palavra que tem que passar longe da sua empresa, caso você esteja pensando em organizar um desses Design Sprints com o seu time.
