@@ -48,4 +48,4 @@ Segundo Jake, as melhores ideias tendem a vir de indivíduos, não de grupos. Gr
 Um outro ponto positivo do Design Sprint é a limitação de tempo. Sim, pode parecer contraditório (menos tempo para fazer o trabalho geralmente significa mais sofrimento), mas ao mesmo tempo essa restrição deixa os membros do time mais motivados por terem sempre a sensação de estarem movendo rapidamente. Burocracia é uma palavra que tem que passar longe da sua empresa, caso você esteja pensando em organizar um desses Design Sprints com o seu time.
 Veja abaixo a explicação completa do Design Sprint, pelo seu próprio criador, Jake Knapp:
 
-[![Video](https://www.youtube.com/watch?v=aWQUSiOZ0x8&feature=emb_logo/0.jpg)](https://www.youtube.com/watch?v=aWQUSiOZ0x8&feature=emb_logo)
+[![Video](video.png)](https://www.youtube.com/watch?v=aWQUSiOZ0x8&feature=emb_logo)
