@@ -10,10 +10,10 @@ The main advantage of this 5-day process over so many other methodologies out th
 
 Much better to know if the idea will work or not BEFORE having to go through all the work of developing it completely, right?
 ## Summary:
- - *What is it?* 5 days to create, design, prototype and test an idea.
- - *Who is it recommended for?* Startups at an early stage; ideas that have yet to be matured; internal projects.
- - *When to use?* Before investing time and money in a startup or idea; before a newly formed agile team starts working on a project; before you start to draw a complex feature in depth.
- - *Who is involved in the sprint?* At least one Designer, a Stakeholder (CEO of the startup, owner of the money, owner of the idea, owner of the ball), a Product Manager, a person who knows the users of the product well, and someone with a more technical background (Developer). Oh, and of course, a facilitator to lead the group sessions.
+ - ```What is it?```  5 days to create, design, prototype and test an idea.
+ - ```Who is it recommended for?``` Startups at an early stage; ideas that have yet to be matured; internal projects.
+ - ```When to use?``` Before investing time and money in a startup or idea; before a newly formed agile team starts working on a project; before you start to draw a complex feature in depth.
+ - ```Who is involved in the sprint?``` At least one Designer, a Stakeholder (CEO of the startup, owner of the money, owner of the idea, owner of the ball), a Product Manager, a person who knows the users of the product well, and someone with a more technical background (Developer). Oh, and of course, a facilitator to lead the group sessions.
  
 ## How does Design Sprint work?
 Before you start Design Sprint, you need to choose the problem to be solved. When they are all lined up, gather the team in a room, block everyone's calendar and secure some basic materials to use that week (post-its, pen, paper, etc.).
